@@ -653,5 +653,6 @@ night.MouseButton1Down:connect(function()
 while true do
 wait(1)
 game.Lighting.TimeOfDay = 06
+game.Lighting.Brightness = 0.5
 end
 end)
