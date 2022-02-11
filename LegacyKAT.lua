@@ -20,7 +20,7 @@ game.StarterGui:SetCore("SendNotification", {
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
 	Title = "Alert!"; -- the title (ofc)
-	Text = "legacy UI, - You are currently using a new version of Codename LegacyUI. Enjoy. "; -- what the text says (ofc)
+	Text = "legacy UI, - You are currently using a new version of LegacyUI. Enjoy. "; -- what the text says (ofc)
 	Icon = "rbxassetid://57254792"; -- the image if u want. 
 	Duration = 5; -- how long the notification should in secounds
 })
